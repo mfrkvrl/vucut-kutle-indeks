@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Lütfen kilonuzu giriniz : ");
         kilo=scanner.nextDouble();
         double index=(kilo/(boy*boy));
-        System.out.println("Vücut kütle indexiniz : " + index);
+        System.out.println("Vücut kütle indeksiniz : " + index);
     }
 }
